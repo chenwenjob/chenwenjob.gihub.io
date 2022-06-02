@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>个人博客网站搭建步骤及技术框架</title>
+      <link href="/p/0036100206/"/>
+      <url>/p/0036100206/</url>
+      
+        <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&amp;emsp;&amp;emsp;我是一名大数据开发工程师，专注大数据开发，实时数仓开发，离线数仓开发。<br /><br>&amp;emsp;&amp;emsp;这段时间由于需要要熟悉一些前后端框架，springcloud、springboot，前端框架vue2、vue3。借此机会我基于所学知识搭建个人博客网站“柠檬日记”。</p><h3 id="网站介绍"><a href="#网站介绍" class="headerlink" title="网站介绍"></a>网站介绍</h3><h5 id="1-、技术整体介绍"><a href="#1-、技术整体介绍" class="headerlink" title="1 、技术整体介绍"></a>1 、技术整体介绍</h5><ul><li><p>成果展示：</p><blockquote><p>1 在github pages 上部署了一份；网站链接<br><a href="http://ydj1861.xyz/">http://ydj1861.xyz</a> <br /><br>2 在阿里云服务器上部署了一套代码（主要目的是提高网站访问速度），网站链接：<a href="https://chenw.com.cn/">https://chenw.com.cn/</a> 。</p></blockquote></li><li><p>开发环境</p><blockquote><p>1 nodejs（v16.15.0）<br>2 npm（8.5.5）<br /><br>3 vscode（version 1.67）<br /><br>4 git（2.23.0）<br /><br>5 github账号申请<br /></p></blockquote></li><li><p>网站架构（基础）</p><blockquote><p>1 此网站属于轻量级文本管理网站，不会涉及到后端代码开发，也不会使用数据库。<br /><br>2 hexo 博客框架<br /><br>3 hexo-admin 文本管理插件<br /><br>4 hexo-theme-matery 博客主题<br /><br>5 github&#x2F;云服务器 博客部署<br /></p></blockquote></li><li><p>网站优化（进阶）</p><blockquote><p>1 申请域名<br /><br>2 申请域名ssl认证，实现https管理<br /><br>3 申请图床 通过 picgo+sm.ms 实现<br /><br>4 nginx优化，提升网站访问速度<br /><br>5 个人网站ICP备案<br /></p></blockquote></li><li><p>以上是设计的网站整个搭建过程的内容，后续我会一次展开介绍。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 程序 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这是一个图床测试文档</title>
       <link href="/p/0048090106/"/>
       <url>/p/0048090106/</url>
