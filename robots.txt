@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+​
+Sitemap: https://chenw.com.cn/sitemap.xml
+Sitemap: https://chenw.com.cn/baidusitemap.xml
