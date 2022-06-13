@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenw.com.cn/p/0022141306/</loc>
+    
+    <lastmod>2022-06-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chenw.com.cn/p/0026090706/</loc>
     
-    <lastmod>2022-06-07</lastmod>
+    <lastmod>2022-06-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -217,6 +226,13 @@
   
   <url>
     <loc>https://chenw.com.cn/tags/2022%E5%B9%B4%E7%A8%8E%E5%8A%A1%E5%B8%88/</loc>
+    <lastmod>2022-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenw.com.cn/tags/%E7%AE%A1%E7%90%86%E7%BB%BC%E5%90%88%E8%81%94%E8%80%83/</loc>
     <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
