@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenw.com.cn/p/0022141306/</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chenw.com.cn/p/0002150207/</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenw.com.cn/p/0005192905/</loc>
     
     <lastmod>2023-01-09</lastmod>
     
@@ -20,18 +38,18 @@
   </url>
   
   <url>
-    <loc>https://chenw.com.cn/p/0016092306/</loc>
+    <loc>https://chenw.com.cn/p/0012202905/</loc>
     
-    <lastmod>2022-06-23</lastmod>
+    <lastmod>2023-01-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://chenw.com.cn/p/0022141306/</loc>
+    <loc>https://chenw.com.cn/p/0016092306/</loc>
     
-    <lastmod>2022-06-13</lastmod>
+    <lastmod>2023-01-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +58,7 @@
   <url>
     <loc>https://chenw.com.cn/p/0026090706/</loc>
     
-    <lastmod>2022-06-13</lastmod>
+    <lastmod>2023-01-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -50,15 +68,6 @@
     <loc>https://chenw.com.cn/p/0054080706/</loc>
     
     <lastmod>2022-06-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chenw.com.cn/p/0012202905/</loc>
-    
-    <lastmod>2022-06-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://chenw.com.cn/p/0001142905/</loc>
-    
-    <lastmod>2022-06-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chenw.com.cn/p/0005192905/</loc>
     
     <lastmod>2022-06-04</lastmod>
     
